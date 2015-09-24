@@ -11,8 +11,6 @@ from within course discussions.
 Learners and course team members can also use the new **Account Settings** page
 to update account information, such as the account email address and password,
 and demographic information, such as level of education and country or region.
-For more information, see the `Exploring Your Dashboard, Settings, and
-Profile`_ section of the `EdX Guide for Students`_.
 
 ==========================
 Video Start and Stop Times

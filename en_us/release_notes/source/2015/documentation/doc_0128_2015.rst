@@ -5,7 +5,7 @@ Building and Running an edX Course
 
 This guide now includes a new section about creating different course
 experiences for learners who are assigned to different cohorts. For more
-information, see :ref:`partnercoursestaff:Creating Cohort Specific Courseware`.
+information, see :ref:`partnercoursestaff:Cohorted Courseware Overview`.
 
 =================================
 edX Developer's Guide
@@ -20,7 +20,7 @@ edX Guide for Students
 =======================
 
 Answers to frequently asked questions about the edX mobile app are now
-available in the :ref:`learners:The edX Mobile App` section of this guide.
+available in the :ref:`learners:SFD Mobile` section of this guide.
 
 =======================================================
 Installing, Configuring, and Running the edX Platform

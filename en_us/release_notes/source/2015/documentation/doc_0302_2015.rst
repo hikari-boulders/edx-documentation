@@ -3,7 +3,7 @@
 Building and Running an edX Course
 ==================================
 
-The :ref:`partnercoursestaff:Creating Cohort Specific Courseware` section now
+The :ref:`partnercoursestaff:Cohorted Courseware Overview` section now
 reflects the ability to delete content groups and view their usage in a course.
 
 =======================================================

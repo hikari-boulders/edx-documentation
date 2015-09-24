@@ -3,13 +3,13 @@
 Building and Running an edX Course
 ==================================
 
-* The :ref:`partnercoursestaff:Custom JavaScript Problem` and
+* The :ref:`partnercoursestaff:Custom JavaScript` and
   :ref:`partnercoursestaff:Multiple Problems in One Component` sections are
   updated to indicate that you cannot use a custom JavaScript problem in a
   component with multiple problems.
 
 * The :ref:`partnercoursestaff:`Adding Course Updates and Handouts` and
-  :ref:`partnercoursestaff:`The Visual Editor` sections are updated to clarify
+  :ref:`partnercoursestaff:`Advanced Editor` sections are updated to clarify
   that the visual editor is not supported for course handouts.
 
 ==================================

@@ -15,7 +15,7 @@ edX Research Guide
 * The new :ref:`data:Pre-Roll Video Interaction Events` topic describes the
   events emitted when users interact with pre-roll videos.
 
-* The topic about :ref:`data:Video Interaction Events` now includes
+* The topic about :ref:`data:video` now includes
   descriptions of the ``video_show_cc_menu`` and ``video_hide_cc_menu`` events.
 
 ==================================

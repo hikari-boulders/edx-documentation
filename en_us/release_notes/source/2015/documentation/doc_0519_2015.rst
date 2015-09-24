@@ -11,7 +11,7 @@ edX Research Guide
 ==================================
 
 * This guide includes updated descriptions of the ``pause_video``,
-  ``play_video``, and ``stop_video`` :ref:`data:video interaction events` to
+  ``play_video``, and ``stop_video`` :ref:`data:video` to
   include the effects of a **Video Start Time** or **Video Stop Time**.
 
 * Two events have been added to the Course Team Events section for generating
