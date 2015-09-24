@@ -27,8 +27,6 @@ file that is delimited by your specified start and stop times plays.
    to videos that are downloaded or viewed using the native mobile app.
    Learners who use the mobile app can play the entire video file.
 
-For more information, see `Video Advanced Options`_.
-
 ============================
 Accessibility Improvements 
 ============================

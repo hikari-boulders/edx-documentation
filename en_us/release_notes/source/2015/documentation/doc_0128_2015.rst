@@ -5,7 +5,7 @@ Building and Running an edX Course
 
 This guide now includes a new section about creating different course
 experiences for learners who are assigned to different cohorts. For more
-information, see ref:`partnercoursestaff:Creating Cohort Specific Courseware`.
+information, see :ref:`partnercoursestaff:Creating Cohort Specific Courseware`.
 
 =================================
 edX Developer's Guide
@@ -33,4 +33,5 @@ Insights` and :ref:`installation:Setting up the edX Mobile Applications`.
 edX Research Guide
 ==================================
 
-This guide now includes a description of the new `Email Opt In Report`_.
+This guide now includes a description of the new :ref:`data:Email Opt In
+Report`.
