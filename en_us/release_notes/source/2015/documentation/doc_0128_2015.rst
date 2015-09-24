@@ -27,7 +27,7 @@ Installing, Configuring, and Running the edX Platform
 =======================================================
 
 This guide now includes new chapters for :ref:`installation:Installing edX
-Insights` and :ref:`installation:Setting up the edX Mobile Applications`.
+Insights` and :ref:`installation:Setting up the Mobile Applications`.
 
 ==================================
 edX Research Guide

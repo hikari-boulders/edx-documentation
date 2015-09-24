@@ -13,5 +13,5 @@ Building and Running an edX Course
 edX Guide for Students
 =======================
 
-Added registration and enrollment to :ref:`learners:The edX Mobile App`
+Added registration and enrollment to :ref:`learners:SFD Mobile`
 section.

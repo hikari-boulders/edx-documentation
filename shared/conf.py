@@ -45,13 +45,13 @@ copyright = u'2015, edX'
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {
-    'opencoursestaff': ('http://edx.readthedocs.org/projects/open-edx-building-and-running-a-course/en/latest/', None),
+    'opencoursestaff' : ('http://edx.readthedocs.org/projects/open-edx-building-and-running-a-course/en/latest/', None),
     'data' : ('http://edx.readthedocs.org/projects/devdata/en/latest/', None),
     'partnercoursestaff': ('http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/', None),
     'insights' : ('http://edx.readthedocs.org/projects/edx-insights/en/latest/', None),
-    'xblockapi': ('http://edx.readthedocs.org/projects/xblock/en/latest/', None),
-    'xblocktutorial': ('http://edx.readthedocs.org/projects/xblock-tutorial/en/latest/', None),
-    'installation': ('http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/', None),
+    'xblockapi' : ('http://edx.readthedocs.org/projects/xblock/en/latest/', None),
+    'xblocktutorial' : ('http://edx.readthedocs.org/projects/xblock-tutorial/en/latest/', None),
+    'installation' : ('http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/', None),
     'olx' : ('http://edx.readthedocs.org/projects/edx-open-learning-xml/en/latest/', None),
     'learners' : ('http://edx.readthedocs.org/projects/edx-guide-for-students/en/latest/', None),
     'openlearners' : ('http://edx.readthedocs.org/projects/open-edx-learner-guide/en/latest/', None),
@@ -59,5 +59,4 @@ intersphinx_mapping = {
     'openplatformapi' : ('http://edx.readthedocs.org/projects/edx-platform-api/en/latest/', None),
     'opendataapi' : ('http://edx.readthedocs.org/projects/edx-data-analytics-api/en/latest/', None),
     'openreleasenotes' : ('http://edx.readthedocs.org/projects/open-edx-release-notes/en/latest/', None)
-
 }

@@ -11,8 +11,8 @@ developing code that is compliant with Web Content Accessibility Guidelines
 Building and Running an edX Course
 ==================================
 
-In the :ref:`partnercoursestaff:Creating Exercises and Tools` chapter, the
+In the :ref:`partnercoursestaff:Create Exercises` chapter, the
 section about accessing open response assessment information has been updated
 to include a topic with details about removing a student response from peer
-grading. For more information, see :ref:`partnercoursestaff:Removing a student
-submission`.
+grading. For more information, see :ref:`partnercoursestaff:Remove a learner
+response from peer grading`.

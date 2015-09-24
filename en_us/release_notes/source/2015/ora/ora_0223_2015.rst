@@ -6,4 +6,5 @@ anonymized student ID. For more information, see
 
 Course teams can now remove inappropriate student responses and exclude them
 from peer assessments. For more information, see
-:ref:`partnercoursestaff:Removing a student submission`. (TNL-900)
+:ref:`partnercoursestaff:Remove a learner response from peer grading`.
+(TNL-900)
