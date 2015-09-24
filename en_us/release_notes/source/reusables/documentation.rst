@@ -31,7 +31,7 @@ The following documentation is available for Open edX users.
 
 * :ref:`olx:edX Open Learning XML Guide`
 
-* :ref:`openplatformapi:Open edX Platform API`
+* :ref:`openplatformapi:Open edX Platform APIs`
   
 * :ref:`opendataapi:Open edX Data Analytics API`
 
