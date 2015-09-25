@@ -3,7 +3,7 @@
 Using edX Insights
 ==================================
 
-Added the :ref:`insights:Ungraded Problem Submissions` section to the *Using
+Added the :ref:`insights:Performance_Ungraded` section to the *Using
 edX Insights* guide.
 
 ==================================
@@ -16,22 +16,23 @@ Building and Running an edX Course
 * Added the :ref:`partnercoursestaff:Timer Between Attempts` topic to the
   "Working with Problem Components" section.
 
-* Added information about the :ref:`partnercoursestaff:Recommender` tool.
+* Added information about the :ref:`partnercoursestaff:RecommenderXBlock`
+  tool.
 
 ==================================
 edX Research Guide
 ==================================
 
-Added the :ref:`data:Course Content Data` section to describe the course
+Added the :ref:`data:course_structure` section to describe the course
 structure file.
 
 ==================================
 Open edX Platform APIs
 ==================================
 
-Added sections for :ref:`opendataapi:Course Structure API Version 0`,
-:ref:`opendataapi:Enrollment API Version 1.0`, and :ref:`opendataapi:User API
-Version 0`.
+Added sections for :ref:`openplatformapi:EdX Platform Course Structure API
+Version 0`, :ref:`openplatformapi:edX Platform Enrollment API Version 1.0`, and
+:ref:`openplatformapi:edX Platform User API Version 1.0`.
 
 ==================================
 edX Developer's Guide

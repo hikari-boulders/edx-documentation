@@ -4431,6 +4431,7 @@ follow.
    * - ``student``
      - string
 
+.. _edx.instructor.report.downloaded:
 
 ======================================================
 ``edx.instructor.report.downloaded`` 
@@ -4458,6 +4459,7 @@ clicks a report link on the Instructor Dashboard to download a report.
      - string
      - The URL to the report file.  
 
+.. _edx.instructor.report.requested:
 
 ======================================================
 ``edx.instructor.report.requested`` 

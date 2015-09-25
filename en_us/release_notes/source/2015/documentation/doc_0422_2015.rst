@@ -7,14 +7,14 @@ edX Guide for Students
   of profiles.
 * Added a new section about the Learner Dashboard.
 
-For more information, see the :ref:`learners:Exploring Your Dashboard,
-Settings, and Profile` section.
+For more information, see the :ref:`learners:SFD Dashboard Settings Profile`
+section.
 
 ==================================
 Building and Running an edX Course
 ==================================
 
-In the :ref:`partnercoursestaff:Introduction to Exercises and Tools` section, a
+In the :ref:`partnercoursestaff:Create Exercises` section, a
 new column in the tables indicates the level of support that edX provides for
 each exercise or tool.
 
@@ -24,4 +24,5 @@ edX Research Guide
 
 New columns were added to the ``auth_userprofile`` table and a new
 ``student_languageproficiency`` table was added to reflect changes for the
-Profiles feature. For more information, see the :ref:`data:Student Info and Progress Data` section.
+Profiles feature. For more information, see the :ref:`data:Student_Info`
+section.

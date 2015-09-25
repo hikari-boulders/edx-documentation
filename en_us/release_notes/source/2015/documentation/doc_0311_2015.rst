@@ -15,5 +15,5 @@ events.
 Using edX Insights
 ==================================
 
-Added the :ref:`insights:Student Performance` section to the *Using edX
+Added the :ref:`insights:Performance Index` section to the *Using edX
 Insights* guide.

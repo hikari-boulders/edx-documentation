@@ -18,5 +18,5 @@ course team specifies licenses.
 Installing, Configuring, and Running the Open edX Platform
 ==============================================================
 
-The new :ref:`installation:Enabling Course and Video Licensing` topic provides
+The new :ref:`installation:Enable Licensing` topic provides
 information about how to enable course licensing options for Open edX.

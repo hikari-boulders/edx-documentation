@@ -4,7 +4,7 @@ Building and Running an edX Course
 ==================================
 
 This guide includes many changes in the past week. For details, see the
-:ref:`partnercoursestaff:Change Log`.
+:ref:`partnercoursestaff:Change Log for 2015`.
 
 ==================================
 edX Research Guide
@@ -24,5 +24,4 @@ edX Research Guide
 edX Data Analytics API
 ==================================
 
-This guide now includes information on the :ref:`opendataapi:Course Video Data`
-endpoint and the :ref:`opendataapi:Video Data API`.
+This guide now includes information on the :ref:`opendataapi:Video Data API`.

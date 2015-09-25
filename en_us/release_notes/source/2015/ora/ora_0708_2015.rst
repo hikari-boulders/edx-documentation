@@ -12,4 +12,4 @@ following additional steps to discontinue use of the ORA 1 problem type.
 * ORA 1 assessments no longer appear in the LMS.
 
 For information about adding ORA 2 assessments to a course, see
-:ref:`partnercoursestaff:Create an Open Response Assessment Assignment`.
+:ref:`partnercoursestaff:PA Create an ORA Assignment`.

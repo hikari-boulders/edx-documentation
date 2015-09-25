@@ -27,6 +27,6 @@ Building and Running an Open edX Course
 * Updated :ref:`opencoursestaff:Course Data` to include descriptions of newly
   added values.
 
-* Updated :ref:`opencoursestaff:Managing Course Discussions` with information
+* Updated :ref:`opencoursestaff:Discussions` with information
   about discussion administration options that are not yet available in the edX
   mobile apps.

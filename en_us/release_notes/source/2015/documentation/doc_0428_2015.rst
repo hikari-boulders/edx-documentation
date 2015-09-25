@@ -6,14 +6,14 @@ Building and Running an edX Course
 * Updated the :ref:`partnercoursestaff:Working with Video Components` section
   to reflect a field label change.
 
-* Added the :ref:`partnercoursestaff:Exploring Your Dashboard Settings and
-  Profile Course Staff` topic with profile and account settings information.
+* Added the :ref:`partnercoursestaff:SFD Dashboard Settings Profile` topic with
+  profile and account settings information.
 
 ==================================
 edX Platform APIs
 ==================================
 
-* Updated the example responses in the :ref:`openplatformapi:edX Enrollment
-  API` documentation to include new ``enrollment_start`` and ``enrollment_end``
-  fields.
+* Updated the example responses in the :ref:`openplatformapi:edX Platform
+  Enrollment API Version 1.0` documentation to include new ``enrollment_start``
+  and ``enrollment_end`` fields.
   

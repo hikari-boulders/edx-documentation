@@ -3,7 +3,7 @@
 Building and Running an edX Course
 ==================================
 
-* A new section on :ref:`partnercoursestaff:Working with Libraries` is now
+* A new section on :ref:`partnercoursestaff:Content Libraries` is now
   available in the "Create Course Content" chapter.
 
 * A new section on :ref:`partnercoursestaff:Randomized Content Blocks` is now
