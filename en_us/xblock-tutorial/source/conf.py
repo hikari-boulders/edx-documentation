@@ -16,4 +16,4 @@ html_favicon = '../../_themes/edx_theme/static/css/favicon.ico'
 project = u'Open edX XBlock Tutorial'
 
 #remove directory when content is first added to it, and add to index
-exclude_patterns = ['links.rst', 'reusable/*']
+exclude_patterns = ['reusable/*']
