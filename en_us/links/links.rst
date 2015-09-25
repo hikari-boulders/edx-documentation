@@ -14,10 +14,13 @@
 
 .. _edX Edge: http://edge.edx.org
 
+.. _Studio: https://studio.edge.edx.org
+
 .. _edx.org registration: https://courses.edx.org/register
 
 .. _docs@edx.org: docs@edx.org
 
+.. _Overview of Creating an edX Course: https://www.edx.org/course/overview-creating-edx-course-edx-edx101#.VHKBz76d9BV
 
 .. _Open edX Portal: http://open.edx.org/
 
@@ -150,6 +153,8 @@
 
 
 .. THIRD PARTY LINKS
+
+.. _3Play Media: http://www.3playmedia.com
 
 .. _Wikipedia XML entry: http://en.wikipedia.org/wiki/XML
 
