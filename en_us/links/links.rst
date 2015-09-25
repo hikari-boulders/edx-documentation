@@ -2,7 +2,11 @@
 
 .. Include this file in any file that includes a non-doc link.
 
-.. General Links
+.. EdX Links
+
+.. _Open edX Analytics wiki: http://edx-wiki.atlassian.net/wiki/display/OA/Open+edX+Analytics+Home
+
+.. _course-data: http://groups.google.com/a/edx.org/forum/#!forum/course-data
 
 .. _edx.org: http://edx.org
 
@@ -153,6 +157,22 @@
 
 
 .. THIRD PARTY LINKS
+
+.. _Accept-Language: http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4
+
+.. _Referer: http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.36
+
+..  _mongodb: http://docs.mongodb.org/manual/
+
+.. _AWS Command Line Interface: http://aws.amazon.com/cli/
+
+.. _Gpg4win Compendium: http://www.gpg4win.org/doc/en/gpg4win-compendium.html
+
+.. _Gpg4win: http://gpg4win.org/
+
+.. _GPG Tools: https://gpgtools.org/
+
+.. _First Steps: http://support.gpgtools.org/kb/how-to/first-steps-where-do-i-start-where-do-i-begin#setupkey
 
 .. _3Play Media: http://www.3playmedia.com
 
