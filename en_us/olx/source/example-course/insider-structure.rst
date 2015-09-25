@@ -11,7 +11,7 @@ This chapter describes the structure of the `edX-Insider`_ course. See:
 * `The HTML XBlock Directory`_
 * `Platform Directories`_
 
-For information on how a generic OLX course is structured, see :ref:`ODL
+For information on how a generic OLX course is structured, see :ref:`OLX
 Directory Structure`.
 
 See :ref:`Example of OLX for a Studio Course` for information on how a course
