@@ -158,6 +158,11 @@
 
 .. THIRD PARTY LINKS
 
+
+.. _Durham University Alt Text Checker: https://www.dur.ac.uk/cis/web/accessibility/tools/alttext/
+
+.. _Web Accessibility Evaluation Tool: http://wave.webaim.org/
+
 .. _Accept-Language: http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4
 
 .. _Referer: http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.36

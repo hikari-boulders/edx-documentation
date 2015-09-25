@@ -236,7 +236,4 @@ Extra-wide screen
 
 
 
-
-.. _Durham University Alt Text Checker: https://www.dur.ac.uk/cis/web/accessibility/tools/alttext/
-
-.. _Web Accessibility Evaluation Tool: http://wave.webaim.org/
+.. include:: ../../links/links.rst
