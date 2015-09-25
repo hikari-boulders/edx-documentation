@@ -284,13 +284,9 @@ STEM Exercises and Tools
        shapes by stringing together amino acids.
      - No support
 
-.. The following section lists the types of problems that learners can interact with in the edX mobile app. 
-.. Alison, DOC-1840, June 2015
 
-.. only:: Open_edX
+*********************************
+Mobile-Ready Problem Types
+*********************************
 
-  *********************************
-  Mobile-Ready Problem Types
-  *********************************
-
-  .. include:: ../../../shared/exercises_tools/Section_mobile_problems.rst
+.. include:: ../../../shared/exercises_tools/Section_mobile_problems.rst
